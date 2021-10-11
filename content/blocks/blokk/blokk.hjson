@@ -1,0 +1,6 @@
+type: Block
+size: 2
+hasPower: true
+destructibe: true
+solid: true
+breakable: true
