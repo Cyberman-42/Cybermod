@@ -1,4 +1,7 @@
 type: Block
+name: Blokk
+description: Just a heccing blokk
+
 size: 2
 #hasPower: true
 #destructibe: true
