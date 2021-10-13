@@ -6,3 +6,7 @@ size: 1
 destructibe: true
 solid: true
 breakable: true
+
+requirements: [
+	copper/5
+]
