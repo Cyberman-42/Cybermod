@@ -1,10 +1,8 @@
-type: block
+type: Block
 name: Blokk
 description: Just a heccing blokk
 
 size: 2
-#hasPower: true
-#destructibe: true
-#solid: true
-#breakable: true
-category: crafting
+destructibe: true
+solid: true
+breakable: true
