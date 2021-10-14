@@ -2,7 +2,7 @@ type: Block
 name: Blokk
 description: Just a heccing blokk
 
-size: 1
+size: 3
 destructibe: true
 solid: true
 breakable: true
